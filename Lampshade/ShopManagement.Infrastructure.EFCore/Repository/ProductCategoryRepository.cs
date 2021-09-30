@@ -6,11 +6,10 @@ using System.Linq;
 
 namespace ShopManagement.Infrastructure.EFCore.Repository
 {
-    public class ProductCategoryRepository : RepositoryBase<long,ProductCategory>, IProductCategoryRepository
+    public class ProductCategoryRepository : RepositoryBase<long, ProductCategory>, IProductCategoryRepository
     {
         private readonly ShopContext _context;
-        public ProductCategoryRepository(ShopContext context)
-            :base(context)
+        public ProductCategoryRepository(ShopContext context) : base(context)
         {
             _context = context;
         }
@@ -31,6 +30,15 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                     Slug = x.Slug
                 })
                 .FirstOrDefault(x => x.Id == id);
+        }
+
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _context.ProductCategories.Select(x => new ProductCategoryViewModel
+            {
+                Id = x.Id,
+                Name = x.Name
+            }).ToList();
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)
