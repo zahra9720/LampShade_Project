@@ -21,3 +21,5 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configu
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.pdb
