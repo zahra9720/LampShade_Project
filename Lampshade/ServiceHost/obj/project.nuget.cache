@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OQsvUHvjwrbz20WSiKFjw3KyyoqMDVGyTIkZAVUPAzwyzuKlMAOM8n/x91+w/5WI0ZiYE00+S06UrShBdPPbfQ==",
+  "dgSpecHash": "gbT8oN1/Gh8H02fPk1nphA9sQmdTW7meImYMgU2xsoy7mCtv30snsR4k3WS5DqQeKGIRuxEYpJxmlPi1h88xSA==",
   "success": true,
   "projectFilePath": "D:\\ASP.NetCore5\\Projects\\MVC_Final_Project\\Code\\Lampshade\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [

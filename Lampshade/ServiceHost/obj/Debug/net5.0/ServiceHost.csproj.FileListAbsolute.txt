@@ -177,3 +177,17 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EfCore.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EfCore.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
