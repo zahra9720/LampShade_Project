@@ -3,11 +3,8 @@ using _0_Framework.Infrastructure;
 using DiscountManagement.Application.Contracts.ColleagueDiscount;
 using DiscountManagement.Domain.ColleagueDiscountAgg;
 using ShopManagement.Infrastructure.EFCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DiscountManagement.Infrastructure.EfCore.Repository
 {
@@ -15,7 +12,7 @@ namespace DiscountManagement.Infrastructure.EfCore.Repository
     {
         private readonly DiscountContext _context;
         private readonly ShopContext _shopContext;
-        public ColleagueDiscountRepository(DiscountContext context , ShopContext shopContext) : base(context)
+        public ColleagueDiscountRepository(DiscountContext context, ShopContext shopContext) : base(context)
         {
             _context = context;
             _shopContext = shopContext;
@@ -38,7 +35,8 @@ namespace DiscountManagement.Infrastructure.EfCore.Repository
                 Id = x.Id,
                 ProductId = x.ProductId,
                 CreationDate = x.CreationDate.ToFarsi(),
-                DiscountRate = x.DiscountRate
+                DiscountRate = x.DiscountRate,
+                IsRemoved = x.IsRemoved       
             });
             if (searchModel.ProductId > 0)
                 query = query.Where(x => x.ProductId == searchModel.ProductId);

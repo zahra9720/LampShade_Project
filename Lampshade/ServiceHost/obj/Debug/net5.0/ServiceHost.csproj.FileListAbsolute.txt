@@ -191,3 +191,6 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\ColleagueDiscounts\Create.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\ColleagueDiscounts\Edit.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Discounts\ColleagueDiscounts\Index.cshtml.g.cs
