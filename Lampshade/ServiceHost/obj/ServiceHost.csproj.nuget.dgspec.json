@@ -524,6 +524,9 @@
             "projectReferences": {
               "D:\\ASP.NetCore5\\Projects\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "D:\\ASP.NetCore5\\Projects\\MVC_Final_Project\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "D:\\ASP.NetCore5\\Projects\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\ASP.NetCore5\\Projects\\MVC_Final_Project\\Code\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }

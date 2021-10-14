@@ -204,3 +204,9 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Inventory\Create.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Inventory\Edit.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Inventory\Index.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Inventory\Increase.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Inventory\Reduce.cshtml.g.cs
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Inventory\OperationLog.cshtml.g.cs

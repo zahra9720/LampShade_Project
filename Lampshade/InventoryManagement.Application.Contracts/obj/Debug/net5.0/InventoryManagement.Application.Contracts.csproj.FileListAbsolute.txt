@@ -13,3 +13,5 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Ap
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

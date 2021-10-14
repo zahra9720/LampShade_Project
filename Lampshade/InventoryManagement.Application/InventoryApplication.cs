@@ -46,6 +46,11 @@ namespace InventoryManagement.Application
             return _inventoryRepository.GetDetails(id);
         }
 
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            return _inventoryRepository.GetOperationLog(inventoryId);
+        }
+
         public OperationResult Increase(IncreaseInventory command)
         {
             var operation = new OperationResult();
@@ -60,7 +65,7 @@ namespace InventoryManagement.Application
             return operation.Succedded();
         }
 
-        public OperationResult Reduse(ReduseInventory command)
+        public OperationResult Reduse(ReduceInventory command)
         {
             var operation = new OperationResult();
             var inventory = _inventoryRepository.Get(command.InventoryId);
@@ -74,7 +79,7 @@ namespace InventoryManagement.Application
             return operation.Succedded();
         }
 
-        public OperationResult Reduse(List<ReduseInventory> command)
+        public OperationResult Reduse(List<ReduceInventory> command)
         {
             var operation = new OperationResult();
             const long operatorId = 1;

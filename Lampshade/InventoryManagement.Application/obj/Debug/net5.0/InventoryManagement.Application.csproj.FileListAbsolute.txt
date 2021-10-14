@@ -17,3 +17,5 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Ap
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\0_Framework.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application\obj\Debug\net5.0\InventoryManagement.Application.csproj.CopyComplete
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
