@@ -30,7 +30,9 @@ namespace ShopManagement.Domain.SlideAgg
         public void Edit(string pictuer, string pictuerAlt, string pictuerTitle,
               string heading, string title, string text, string btnText, string link)
         {
-            Picture = pictuer;
+            if (!string.IsNullOrWhiteSpace(pictuer))
+                Picture = pictuer;
+
             PictureAlt = pictuerAlt;
             PictureTitle = pictuerTitle;
             Heading = heading;
