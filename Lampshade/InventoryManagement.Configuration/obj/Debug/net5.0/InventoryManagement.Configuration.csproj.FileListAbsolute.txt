@@ -4,12 +4,14 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Co
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Configuration.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\0_Framework.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\0_Framework.pdb
@@ -25,5 +27,3 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Co
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\obj\Debug\net5.0\InventoryManagement.Configuration.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\obj\Debug\net5.0\ref\InventoryManagement.Configuration.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\obj\Debug\net5.0\InventoryManagement.Configuration.pdb
-D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
-D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\InventoryManagement.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb

@@ -5,9 +5,13 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.App
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.AssemblyReference.cache
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.AssemblyInfoInputs.cache
@@ -17,7 +21,3 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.App
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.pdb
-D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
-D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
-D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
-D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
