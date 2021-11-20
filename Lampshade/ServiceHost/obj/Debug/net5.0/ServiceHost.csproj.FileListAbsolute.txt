@@ -220,3 +220,4 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
