@@ -71,15 +71,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BM.Application", "BM.Applic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BM.Infrastructure", "BM.Infrastructure", "{EC8D04EA-717F-49ED-B755-15C567B0764A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Domain", "BlogManagement.Domain\BlogManagement.Domain.csproj", "{C9FF6315-7B17-46B0-9C75-74E711E2BDAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Domain", "BlogManagement.Domain\BlogManagement.Domain.csproj", "{C9FF6315-7B17-46B0-9C75-74E711E2BDAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Application.Contracts", "BlogManagement.Application.Contracts\BlogManagement.Application.Contracts.csproj", "{23E2F84E-D795-4900-BA63-1D67C17638DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Application.Contracts", "BlogManagement.Application.Contracts\BlogManagement.Application.Contracts.csproj", "{23E2F84E-D795-4900-BA63-1D67C17638DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Application", "BlogManagement.Application\BlogManagement.Application.csproj", "{3E72778B-9CD9-46C0-BEA3-8ACDD924EAB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Application", "BlogManagement.Application\BlogManagement.Application.csproj", "{3E72778B-9CD9-46C0-BEA3-8ACDD924EAB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Configuration", "BlogManagement.Configuration\BlogManagement.Configuration.csproj", "{9809DC61-F872-40CC-BFF2-D054830ACAE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Configuration", "BlogManagement.Configuration\BlogManagement.Configuration.csproj", "{9809DC61-F872-40CC-BFF2-D054830ACAE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogManagement.Infrastructure.EFCore", "BlogManagement.Infrastructure.EFCore\BlogManagement.Infrastructure.EFCore.csproj", "{F5A1CF0B-432A-47C0-A2E0-8DDC154B57DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogManagement.Infrastructure.EFCore", "BlogManagement.Infrastructure.EFCore\BlogManagement.Infrastructure.EFCore.csproj", "{F5A1CF0B-432A-47C0-A2E0-8DDC154B57DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

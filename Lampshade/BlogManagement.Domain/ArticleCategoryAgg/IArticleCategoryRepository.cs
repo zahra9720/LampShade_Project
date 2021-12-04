@@ -9,5 +9,6 @@ namespace BlogManagement.Domain.ArticleCategoryAgg
         string GetSlugBy(long id);
         EditArticleCategory GetDetails(long id);
         List<ArticleCategoryViewModel> Search(ArticleCategorySearchModel searchModel);
+        List<ArticleCategoryViewModel> GetArticleCategories();
     }
 }
