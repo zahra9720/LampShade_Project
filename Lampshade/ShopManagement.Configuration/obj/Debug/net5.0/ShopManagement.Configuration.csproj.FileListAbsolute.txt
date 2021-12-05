@@ -35,3 +35,9 @@ D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configu
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\ASP.NetCore5\Projects\MVC_Final_Project\Code\Lampshade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
