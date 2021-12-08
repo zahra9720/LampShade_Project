@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using _0_Framework.Infrastructure;
 using AccountManagement.Configuration;
 using BlogManagement.Configuration;
 using CommentManagement.Configuration;
@@ -12,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ShopManagement.Configuration;
+using System.Collections.Generic;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
 
@@ -59,7 +61,33 @@ namespace ServiceHost
                      o.AccessDeniedPath = new PathString("/AccessDenied");
                  });
 
-            services.AddRazorPages();
+            services.AddAuthorization(options =>
+            {
+                 options.AddPolicy("AdminArea", builder =>
+                 builder.RequireRole(new List<string> { Roles.Admin, Roles.ContentUploader }));
+
+                options.AddPolicy("Shop", builder =>
+                builder.RequireRole(new List<string> { Roles.Admin }));
+
+                options.AddPolicy("Discount", builder =>
+                builder.RequireRole(new List<string> { Roles.Admin }));
+
+                options.AddPolicy("Account", builder =>
+                builder.RequireRole(new List<string> { Roles.Admin }));
+
+                options.AddPolicy("Inventory", builder =>
+                builder.RequireRole(new List<string> { Roles.Admin }));
+            });
+
+            services.AddRazorPages()
+                .AddRazorPagesOptions(options =>
+                {
+                    options.Conventions.AuthorizeAreaFolder("Admin", "/", "AdminArea");
+                    options.Conventions.AuthorizeAreaFolder("Admin", "/Shop", "Shop");
+                    options.Conventions.AuthorizeAreaFolder("Admin", "/Discounts", "Discount");
+                    options.Conventions.AuthorizeAreaFolder("Admin", "/Accounts", "Account");
+                    options.Conventions.AuthorizeAreaFolder("Admin", "/Inventory", "Inventory");
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -7,6 +7,7 @@ using System.Collections.Generic;
 
 namespace ServiceHost.Areas.Admin.Pages.Inventory
 {
+    //[Authorize(Roles = Roles.Admin)]
     public class IndexModel : PageModel
     {
         [TempData]

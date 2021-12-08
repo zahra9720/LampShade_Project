@@ -35,7 +35,7 @@ namespace AccountManagement.Application
             return operationResult.Succedded();
         }
 
-        public OperationResult Create(CreateAccount command)
+        public OperationResult Register(RegisterAccount command)
         {
             var operationResult = new OperationResult();
 
